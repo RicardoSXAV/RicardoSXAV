@@ -1,6 +1,5 @@
 ## 👋 Hello!
 
-* I'm currently pursuing a degree in Computer Science.
 * Interested about coding websites and mobile applications. Sometimes I do the design part too.
 
 [![Gmail](https://img.shields.io/badge/ricardosantosxav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
