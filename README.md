@@ -9,7 +9,7 @@
 
 ## 📊 Stats
 
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=RicardoSXAV&locale=en&mode=weekly&theme=city_lights&hide_border=true&border_radius=5&order=3" height="170em" alt="streak graph"  />
   <img height="170em" src="https://ricardosxav-github-readme-stats.vercel.app/api/top-langs/?username=RicardoSXAV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" alt="top languages" />
 </div>
